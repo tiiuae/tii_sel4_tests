@@ -1,0 +1,6 @@
+scp
+wheel
+PyYAML
+paramiko
+pytest-reportlog
+labgrid @ git+https://github.com/labgrid-project/labgrid
